@@ -4,7 +4,6 @@ A modern, animated Flutter application that provides a comprehensive Pokédex ex
 
 ![Pokédex App](https://img.shields.io/badge/Flutter-3.0+-blue?style=for-the-badge&logo=flutter)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20Desktop-lightgrey?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## ✨ Features
 
@@ -295,42 +294,3 @@ Enable debug mode for development:
 ```bash
 flutter run --debug
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow Flutter best practices
-- Maintain clean architecture principles
-- Write comprehensive tests
-- Update documentation as needed
-- Use conventional commit messages
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **PokéAPI**: For providing comprehensive Pokémon data
-- **Flutter Team**: For the amazing framework
-- **Riverpod**: For excellent state management
-- **Community**: For contributions and feedback
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/pokedex_app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/pokedex_app/discussions)
-- **Email**: your.email@example.com
-
----
-
-**Made with ❤️ and Flutter**
-
-_Catch 'em all!_ 🎯✨
