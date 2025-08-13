@@ -170,8 +170,6 @@ The app features a comprehensive animation system:
 - **Shimmer effects**: Smooth loading animations
 - **Progressive loading**: Content appears in stages
 
-For detailed animation documentation, see [ANIMATIONS_README.md](ANIMATIONS_README.md).
-
 ## 🧪 Testing
 
 The app includes a comprehensive testing suite with unit tests, widget tests, and integration tests.
@@ -197,10 +195,6 @@ flutter test integration_test/     # End-to-end tests
 - **Widget Tests**: Individual UI components and interactions
 - **Integration Tests**: Complete app flows and user journeys
 - **Test Coverage**: >90% unit tests, >80% widget tests
-
-### Test Documentation
-
-For detailed testing information, see [test/README.md](test/README.md).
 
 ### Test Examples
 
